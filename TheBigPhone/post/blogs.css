@@ -1,0 +1,28 @@
+.test1{
+    align-content: center;
+    font-size: 18px;
+    border: #aaa;
+
+    }
+    .imagesclass1{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    .HuwaeiPicturemiddleclassban{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+
+    }
+    .HuwaeiPicturemiddleclassban1{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      filter: blur(8px);
+
+
+    }
